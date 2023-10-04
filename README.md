@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="220"/>
 
   <div id="badges">
-    <a href="[your-linkedin-URL](https://www.linkedin.com/in/artyom-lyovkin-170bb9215/)" rel="noreferrer" target="_blank">
+    <a href="https://www.linkedin.com/in/artyom-lyovkin-170bb9215/" rel="noreferrer" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/ji3ba/" rel="noreferrer" target="_blank">
