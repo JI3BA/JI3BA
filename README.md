@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="220"/>
 
   <div id="badges">
     <a href="[your-linkedin-URL](https://www.linkedin.com/in/artyom-lyovkin-170bb9215/)" rel="noreferrer" target="_blank">
@@ -13,10 +13,7 @@
     </a>
   </div>
 
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30px"/>
-  </h1>
+  <h1 width='100px'>Hi there &#128075</h1>
 </div>
 
 <!--
