@@ -22,7 +22,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/zhYSVCirREeIZ
 
 - :telescope: Front-End Developer with experience in creating modern and interactive user interfaces.
 
-- 🌱:  I'm skilled in JavaScript, HTML, CSS (SCSS), TypeScript, React, React Hooks, Redux, Axios, Git, Material UI.
+- 🌱:  I'm skilled in JavaScript, HTML, CSS (SCSS), TypeScript, React, React Hooks, Redux (Toolkit, Thunk, Persist), NextJS (Client/Server Components, Middleware, Dynamic Routes), Axios, Git, Material UI.
 
 - 🖼️: In my free time, I enjoy drawing fictional characters and I love walking around the city in the evening.
 
